@@ -8,11 +8,11 @@ We are going to Learn Python, it is a powerful multi-purpose programming languag
  		NOTE: It will give you the Location of a python.exe file in your local machine.
 2. To Check  how many Pacakage your Installed in you System COMMAND: pip list
 3. To Install new package in the Machine COMMAND:pip install <package name> Eg: pip install numpy
-3.1 How to install Package with Perticular Version is COMMAND: pip install numpy==1.16.0.
-3.2 How to install Multiple Package one Time
-pip install package1,package2,..........
-pip install SomePackage==1.0.4    # specific version
-pip install "SomePackage>=1.0.4"  # minimum version
+  How to install Package with Perticular Version is COMMAND: pip install numpy==1.16.0.
+  How to install Multiple Package one Time
+    pip install package1,package2,..........
+    pip install SomePackage==1.0.4    # specific version
+    pip install "SomePackage>=1.0.4"  # minimum version
 4. How to uninstall Packages in machine COMMAND:  pip uninstall <package name> Eg: pip uninstall numpy
 5. Command to help form Python is help()
 6. Command to show all files in package is COMMAND: pip show --file <Package Name> 
