@@ -17,3 +17,5 @@ We are going to Learn Python, it is a powerful multi-purpose programming languag
 5. Command to help form Python is help()
 6. Command to show all files in package is COMMAND: pip show --file <Package Name> 
   
+# BitWise Operators
+![](https://lh3.googleusercontent.com/-1Vaqg06qbw8/XQ9WCPZ_lBI/AAAAAAAAeic/G5xMe9KrFs88c1CAM8qIYvXfsHo8jUitACK8BGAs/s0/2019-06-23.png)
