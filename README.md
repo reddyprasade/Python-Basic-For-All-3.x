@@ -1,9 +1,15 @@
 # PYTHON-BASIC-FOR-ALL
 We are going to Learn Python, it is a powerful multi-purpose programming language created by Guido van Rossum.  It has simple easy-to-use syntax, making it the perfect language for someone trying to learn computer programming for the first time.  This is a comprehensive guide on how to get started in Python, why you should learn it and how you can learn it. However, if you knowledge of other programming languages and want to quickly get started with Python.
+
+## Installation process:
+```
 1. How to Install Python:
 2. Go to www.python.org
 3. Select Your Python Version Based on Your Operating Systems and it's Processer like (intel,AMD ..ect).
-4. Basic Commands In Python:
+```
+
+## Basic Commands In Python:
+```
 1. To Check weather you Python is installed or not COMMAND:   where python 
  		NOTE: It will give you the Location of a python.exe file in your local machine.
 2. To Check  how many Pacakage your Installed in you System COMMAND: pip list
@@ -16,6 +22,11 @@ We are going to Learn Python, it is a powerful multi-purpose programming languag
 4. How to uninstall Packages in machine COMMAND:  pip uninstall <package name> Eg: pip uninstall numpy
 5. Command to help form Python is help()
 6. Command to show all files in package is COMMAND: pip show --file <Package Name> 
-  
+```
+## Topics You have to will Learn how to Usage it 
+``` 
+1. 
+
+```
 # BitWise Operators
 ![](https://lh3.googleusercontent.com/-1Vaqg06qbw8/XQ9WCPZ_lBI/AAAAAAAAeic/G5xMe9KrFs88c1CAM8qIYvXfsHo8jUitACK8BGAs/s0/2019-06-23.png)
