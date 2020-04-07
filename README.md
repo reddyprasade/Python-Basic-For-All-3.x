@@ -23,9 +23,17 @@ We are going to Learn Python, it is a powerful multi-purpose programming languag
 5. Command to help form Python is help()
 6. Command to show all files in package is COMMAND: pip show --file <Package Name> 
 ```
-## Topics You have to will Learn how to Usage it 
+## Saving the files:
 ``` 
-1. 
+1. **py** Regular scripts
+2. **pyc** Compiled script (Bytecode)
+3. **py3** (rarely used) Python3 script
+4. **pyo** optimized pyc bytecode file
+5. **pyw** Python Script for windows exectable
+6. **pyx** Cython src to be converted to C/C++
+7. **pyd** Python script made as a Windows DLL
+8. **pxd** Cython Script which is equivalent to a C/C++ header 
+9. **pyi** MyPY stub
 
 ```
 # BitWise Operators
