@@ -1,3 +1,4 @@
+![](image/Python.png)
 # PYTHON-BASIC-FOR-ALL
 We are going to Learn Python, it is a powerful multi-purpose programming language created by Guido van Rossum.  It has simple easy-to-use syntax, making it the perfect language for someone trying to learn computer programming for the first time.  This is a comprehensive guide on how to get started in Python, why you should learn it and how you can learn it. However, if you knowledge of other programming languages and want to quickly get started with Python.
 
@@ -36,5 +37,3 @@ We are going to Learn Python, it is a powerful multi-purpose programming languag
 9. **pyi** MyPY stub
 
 ```
-# BitWise Operators
-![](https://lh3.googleusercontent.com/-1Vaqg06qbw8/XQ9WCPZ_lBI/AAAAAAAAeic/G5xMe9KrFs88c1CAM8qIYvXfsHo8jUitACK8BGAs/s0/2019-06-23.png)
