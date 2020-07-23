@@ -2,12 +2,15 @@
 # PYTHON-BASIC-FOR-ALL
 We are going to Learn Python, it is a powerful multi-purpose programming language created by Guido van Rossum.  It has simple easy-to-use syntax, making it the perfect language for someone trying to learn computer programming for the first time.  This is a comprehensive guide on how to get started in Python, why you should learn it and how you can learn it. However, if you knowledge of other programming languages and want to quickly get started with Python.
 
-## Installation process:
+## Downlow Python Software:
 ```
 1. How to Install Python:
 2. Go to www.python.org
 3. Select Your Python Version Based on Your Operating Systems and it's Processer like (intel,AMD ..ect).
 ```
+
+[![Watch the video](https://github.com/reddyprasade/Python-Basic-For-All-3.x/blob/master/image/Setup_and_Install_Python_Windows_Gui.jpg)](https://github.com/reddyprasade/Python-Basic-For-All-3.x/blob/master/image/How%20To%20Download%20%20Python%20Software.mp4)
+
 
 ## Basic Commands In Python:
 ```
