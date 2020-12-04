@@ -53,6 +53,7 @@ We are going to Learn Python, it is a powerful multi-purpose programming languag
 
 # Commands:
 | Command | Explination |
+|---------|-------------|
 | pip list|List installed packages.|
 | pip list --outdate or py -m pip list --outdated|List outdated packages (excluding editables), and the latest version available.|
 | pip list --format columns or py -m pip list --format columns | List installed packages with column formatting.|
