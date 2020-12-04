@@ -51,3 +51,13 @@ We are going to Learn Python, it is a powerful multi-purpose programming languag
 * [Life Cycle of Data Science](https://github.com/reddyprasade/Data-Science-With-Python/tree/master/Life%20Cycle%20Process%20of%20Data%20Science%20In%20Real%20World%20project)
 * [Statistics](https://github.com/reddyprasade/Data-Science-With-Python/tree/master/Statistics)
 
+# Commands:
+| Command | Explination |
+| pip list|List installed packages.|
+| pip list --outdate or py -m pip list --outdated|List outdated packages (excluding editables), and the latest version available.|
+| pip list --format columns or py -m pip list --format columns | List installed packages with column formatting.|
+| py -m pip list -o --format columns or pip list -o --format columns| List outdated packages with column formatting.|
+| py -m pip list --outdated --not-required or pip list --outdated --not-required | List packages that are not dependencies of other packages. Can be combined with other options.|
+|pip list --format=legacy or |Use legacy formatting|
+|pip list --format=json or py -m pip list --format=json|Use json formatting|
+
