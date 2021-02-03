@@ -1,0 +1,34 @@
+py -V
+python --version
+py --version
+where python
+pip list
+py -m pip list
+
+### Intstallation of Pakages
+
+pip install pandas
+pip install pandas==1.2.0
+
+py -m pip install pandas
+
+## Show Commands
+py -m pip show pandas
+pip show pandas
+
+
+## List outdated packages
+-o, --outdated
+
+pip list -o
+py -m pip list --outdated
+
+## List uptodate packages
+-u, --uptodate
+
+pip list -u
+pip list --uptodate
+
+py -m pip list --format=json
+py -m pip list --format=columns
+py -m pip list --format=freeze
