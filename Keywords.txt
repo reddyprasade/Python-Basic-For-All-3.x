@@ -1,0 +1,21 @@
+## list of keywords in Python
+## How to Find list of Keywords in python 
+
+### Method-1 
+import keyword 
+keyword.kwlist
+
+import keyword as kw 
+kw.kwlist
+
+### Method-2
+dir(__builtins__)
+
+### Methods-3
+help('keywords')
+
+### Methods - 4
+* Go to CMD
+* Type Python
+* help()
+* keywords
