@@ -5,4 +5,13 @@ for row in range(7):
      else:
          print(' ',end=' ')
     print()
+    
+### Method-2
+for i in range(7):
+	for j in range(5):
+		if i==6 or i+j==6 or i==0 and j not in(0,4) or i==1 and j in(0,4):
+			print('*',end=' ')
+		else:
+			print(' ',end=' ')
+	print()
      
