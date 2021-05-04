@@ -62,3 +62,6 @@ We are going to Learn Python, it is a powerful multi-purpose programming languag
 |pip list --format=legacy or |Use legacy formatting|
 |pip list --format=json or py -m pip list --format=json|Use json formatting|
 
+
+# Python References:
+* [Python Commands](https://pip.pypa.io/en/stable/cli/pip/)
